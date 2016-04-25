@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./ernfridcarrosen03rosegoog_0148.png"; bbox 0 0 2796 4697; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 750 370 1928 471">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 750 370 1928 471">
+     <span class='ocr_line' id='line_1_1' title="bbox 750 370 1928 471; baseline 0.007 -29"><span class='ocrx_word' id='word_1_1' title='bbox 750 385 776 442; x_wconf 81' lang='grc'><em>,’</em></span> <span class='ocrx_word' id='word_1_2' title='bbox 935 391 936 394; x_wconf 75' lang='grc'>’</span> <span class='ocrx_word' id='word_1_3' title='bbox 1062 372 1466 471; x_wconf 55' lang='lat' dir='ltr'><em>Hostum</em></span> <span class='ocrx_word' id='word_1_4' title='bbox 1579 370 1928 471; x_wconf 50' lang='lat' dir='ltr'><em>cap-w.</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 2783 879 2786 2917">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 2783 879 2786 2917">
+     <span class='ocr_line' id='line_1_2' title="bbox 2783 879 2786 2917; baseline 0 0"><span class='ocrx_word' id='word_1_5' title='bbox 2783 879 2786 2917; x_wconf 95' lang='lat' dir='ltr'><em> </em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
